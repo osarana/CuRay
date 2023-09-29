@@ -1,2 +1,2 @@
-# cuda_raytracer
+# CuRay
 PBRT Renderer written in C++/CUDA
