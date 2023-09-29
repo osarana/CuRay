@@ -1,5 +1,7 @@
 # CuRay: A PBRT Raytracer in CUDA
 
+![CuRay Render Example](out.jpg)
+
 CuRay is a GPU-accelerated raytracer based on Peter Shirley's "Ray Tracing in One Weekend" book series. It extends the concepts introduced in the book to support advanced features and performance optimizations using CUDA.
 
 ## Key Features
